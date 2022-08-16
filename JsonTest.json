@@ -11,6 +11,12 @@
       "UserPw" : "3",
       "Name": "고범석" ,
       "status" : "Student"
+    },
+    {
+      "UserId" : "4" ,
+      "UserPw" : "5",
+      "Name": "박현상" ,
+      "status" : "Professor"
     }
   ]
 }
