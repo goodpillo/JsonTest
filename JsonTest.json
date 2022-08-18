@@ -1,1 +1,23 @@
-  "https://cms.daejin.ac.kr/contents2/daejinl101/6209f3a55b096/contents/media_files/main_(375aa6fb-3746-4e42-b1fb-d0fde8a2d3de).mp4"
+{
+  "UserInfo": [
+   {
+      "UserId" : "0" ,
+      "UserPw" : "1",
+      "Name": "이승엽" ,
+      "status" : "Student"
+      "Url" : "https://cms.daejin.ac.kr/contents2/daejinl101/6209f3a55b096/contents/media_files/main_(375aa6fb-3746-4e42-b1fb-d0fde8a2d3de).mp4"
+    },
+    {
+      "UserId" : "2" ,
+      "UserPw" : "3",
+      "Name": "고범석" ,
+      "status" : "Student"
+    },
+    {
+      "UserId" : "4" ,
+      "UserPw" : "5",
+      "Name": "박현상" ,
+      "status" : "Professor"
+    }
+  ]
+}
